@@ -1,0 +1,10 @@
+.Cabecario {
+    color: black;
+    font-size: 40px;
+}
+
+.display1 { 
+    display: flex;
+    margin-bottom: 20vh;
+    justify-content: center;
+}

@@ -1,0 +1,7 @@
+.Atividade2 {
+    width: min-content;
+}
+
+.Atividade2 > button {
+    width: 150px;
+}
